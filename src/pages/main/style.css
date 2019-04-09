@@ -1,0 +1,62 @@
+.box-content {
+	z-index: 1;
+	max-width: 940px;
+    width: 95%;
+	height: 300px;
+	background: #fff;
+	top: -50px;
+	margin: 0 auto;
+	box-shadow: 0 6px 23px rgba(0,0,0,.16);
+	border-radius: 8px;
+	position: relative;
+	text-align: center;
+}
+
+.h150 {
+	width: 100%;
+	height: 150px;
+	border-bottom: 1px solid #eee;
+}
+
+.w50 {
+	width: 50%;
+	float: left;
+	height: 100%;
+}
+
+.logo-moeda h1{
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.content-valor{
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.valor-moeda a {
+	text-decoration: none;
+	color: #333;
+}
+
+.bold{font-weight: bold;}
+.f22{font-size: 22px}
+
+@media screen and (max-width: 650px){
+	p,a{
+		font-size: 14px;
+	}
+	.f22{
+		font-size: 18px
+	}
+}
+
+@media screen and (max-width: 550px){
+	.logo-moeda img{
+		width: 100px
+	}
+}
