@@ -1,3 +1,9 @@
+### IMPORTANTE
+
+Essa foi minha primeira aplicação criada com React, eu literalmente sai da zona de conforto para fazer esse teste.
+Considero com o repositório/teste mais importante para minha vida, foi literalmente a "virada de chave" da minha vida.
+Por isso deixei o mesmo sem nenhuma alteração na estrutura desde que o fiz, para sempre poder olhar e ver o quanto evoluir desde esse teste, lá em abril de 2019.
+
 # Teste para a vaga Front-end Lunes.io
 
 - Fui Contratado ;D
